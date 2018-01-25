@@ -16,6 +16,16 @@ timezone: Asia/Shanghai
 
 header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 
+# SNS settings
+# RSS:
+zhihu_username: knightuniverse
+github_username: knightuniverse
+
+# Sidebar
+sidebar: true
+sidebar-about-description: "console.log('hello world!')"
+sidebar-avatar: avatar-hux.jpg
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
