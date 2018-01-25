@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Haojen # your blog title name
+title: 猴子的树洞 # your blog title name
 subtitle:  
-author: Haojen Ma # 作者
+author: Milo # 作者
 language: 
 timezone: 
 
 # custom Site settings
 # more detail check out docs
-SEOTitle: Haojen's blog 
+SEOTitle: Milo's blog
 header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
-email: HaojenMa@gmail.com
-description: "马浩珍在 Github 上的个人博客"
+email: knightuniverse@qq.com
+description: "猴子的树洞"
 keyword: # seo key words
 
 favicon: # your favicon png
@@ -29,10 +29,8 @@ permalink_defaults:
 
 # SNS settings
 # RSS:
-weibo_username: haojen
-zhihu_username: megahertz
-github_username: haojen
-twitter_username: ehazon
+zhihu_username: knightuniverse
+github_username: knightuniverse
 facebook_username:  
 linkedin_username:  
 
@@ -157,3 +155,13 @@ swiftype_key:
 archive:
     title: archives
     description: 可以根据归档日期检索所有文件
+
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  decodeEntities: false
+  anchor:
+    position: after
+    symbol: '#'
+    style: header-anchor
