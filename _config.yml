@@ -14,7 +14,8 @@ email: knightuniverse@qq.com
 language: zh
 timezone: Asia/Shanghai
 
-header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
+# 博文标题背景图片
+post-default-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 
 # SNS settings
 # RSS:
