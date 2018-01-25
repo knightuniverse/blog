@@ -6,15 +6,15 @@
 title: 猴子的树洞
 subtitle:
 SEOTitle: Milo's blog
-description:
+description: "猴子的树洞"
+keyword: # seo key words
+
 author: Milo
+email: knightuniverse@qq.com
 language: zh
 timezone: Asia/Shanghai
 
 header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
-email: knightuniverse@qq.com
-description: "猴子的树洞"
-keyword: # seo key words
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
