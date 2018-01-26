@@ -8,24 +8,23 @@ subtitle:
 SEOTitle: Milo's blog
 description: "猴子的树洞"
 keyword: # seo key words
+timezone: Asia/Shanghai
 
 author: Milo
 email: knightuniverse@qq.com
 language: zh
-timezone: Asia/Shanghai
 
 # 博文标题背景图片
 post-default-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 
-# SNS settings
-# RSS:
-zhihu_username: knightuniverse
-github_username: knightuniverse
-
-# Sidebar
-sidebar: true
-sidebar-about-description: "console.log('hello world!')"
-sidebar-avatar: avatar-hux.jpg
+# Aside
+## search
+## avatar
+## aside-description
+## links
+search: false
+avatar: http://olnzpdi2u.bkt.clouddn.com/avatar.jpg
+aside-description: console.log('hello world!')
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -89,7 +88,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anisina
+theme: aath
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
