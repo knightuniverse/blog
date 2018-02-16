@@ -33,6 +33,9 @@
         color: #a3a3a3;
         margin-bottom: 8px;
         transition: $transition;
+        img {
+          max-width: 100%;
+        }
         * {
           margin: 0;
           padding: 0;
