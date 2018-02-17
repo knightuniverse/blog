@@ -27,7 +27,7 @@
           <% } %>
         </div>
         <div class='post-meta'>
-          <i class="fa fa-calendar" aria-hidden="true"></i> <time><%-date(post.date, "YYYY年MM月DD日")%></time>
+          <i class="fas fa-calendar" aria-hidden="true"></i> <time><%-date(post.date, "YYYY年MM月DD日")%></time>
           <% if(post.categories.length) { %>
             | <i class="fa fa-folder-open-o" aria-hidden="true"></i> <%- partial('_partial/categories', { post: post }) %>
           <% } %>
